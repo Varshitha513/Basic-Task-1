@@ -1,6 +1,7 @@
 **BASIC TASK-1**
  **Sentiment Analysis**: Develop a sentiment analysis tool that can analyze the sentiment (positive, negative, or neutral) of text data, such as social media posts or reviews of Restaurant reviews.
  To do this project: firstly we need to import the csv file to make the predictions and csv file named "Restaurant_Reviews".
+
  **Sentiment Analysis Project Description:**
 1. **Problem Definition**:
 The goal of this sentiment analysis project is to build a tool that can analyze the sentiment (positive, negative, or neutral) of text data, such as social media posts or reviews of restaurant reviews.
