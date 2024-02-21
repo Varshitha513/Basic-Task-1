@@ -27,9 +27,13 @@ Training a Classifier: Train a sentiment analysis classifier using a labeled dat
 5. **Making Predictions**:
 The predict_sentiment function takes a sample review, preprocesses it, transforms it using the provided vectorizer (cv), and then makes predictions using the pre-trained classifier (classifier).
 
-6. **Real-life Applications**:
+  **Real-life Applications**:
 This sentiment analysis tool can be applied in various real-life scenarios:
-Brand Monitoring: Monitor social media mentions to understand public sentiment towards a brand.
-Customer Feedback Analysis: Analyze customer reviews to identify areas of improvement or gauge satisfaction.
-Market Research: Analyze opinions on new products or features.
-Political Analysis: Understand public opinion on political issues by analyzing speeches, news, and social media.
+
+1.**Brand Monitoring**: Monitor social media mentions to understand public sentiment towards a brand.
+
+2.**Customer Feedback Analysis**: Analyze customer reviews to identify areas of improvement or gauge satisfaction.
+
+3.**Market Research**: Analyze opinions on new products or features.
+
+4.**Political Analysis**: Understand public opinion on political issues by analyzing speeches, news, and social media.
