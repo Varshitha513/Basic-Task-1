@@ -1,6 +1,8 @@
 **BASIC TASK-1**
  **Sentiment Analysis**: Develop a sentiment analysis tool that can analyze the sentiment (positive, negative, or neutral) of text data, such as social media posts or reviews of Restaurant reviews.
- To do this project: firstly we need to import the csv file to make the predictions and csv file named "Restaurant_Reviews".
+ To do this project: We need to use the dataset **Restaurant_Reviews.tsv**.  We can download the dataset from:
+
+ #**Dataset**: https://www.kaggle.com/datasets/akram24/restaurant-reviews
 
  **Sentiment Analysis Project Description:**
 1. **Problem Definition**:
